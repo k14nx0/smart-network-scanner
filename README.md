@@ -27,7 +27,7 @@ A Bash-based network scanning tool that performs fast port scanning and service 
 chmod +x scanner.sh
 ./scanner.sh <target>
 
-##Project Purpose
+Project Purpose
 
 This project was built to practice:
 
@@ -37,7 +37,7 @@ Port scanning fundamentals
 Basic cybersecurity concepts
 Terminal output formatting
 
-##Sample Use Case
+Sample Use Case
 
 This tool can be used to quickly:
 
@@ -47,11 +47,11 @@ Perform basic network reconnaissance
 Test network connectivity
 Learn about port scanning concepts
 
-##Screenshots
+Screenshots
 
 Example output:
 
-##Future Improvements
+Future Improvements
 
 Add support for custom port ranges
 Implement multi-threading for faster scans
@@ -60,12 +60,12 @@ Export results to file (TXT/JSON)
 Add timeout configuration
 Support for scanning multiple hosts
 
-##⚠️ Disclaimer
+⚠️ Disclaimer
 This tool is intended for educational and authorized use only.
 Do not use it on systems you do not own or have permission to test.
 Always obtain proper authorization before scanning any network or system.
 
-##Skills Demonstrated
+Skills Demonstrated
 
 Bash scripting
 Network programming
@@ -73,10 +73,10 @@ Cybersecurity fundamentals
 Problem-solving and automation
 Terminal UI/UX design
 
-##Author
+Author
 
 Kian Bahia
 🔗 GitHub Profile
 
-##License
+License
 This project is for educational purposes.
