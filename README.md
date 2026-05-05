@@ -18,7 +18,6 @@ A Bash-based network scanning tool that performs fast port scanning and service 
   - nc (netcat)
   - grep
   - echo
-  - sleep
   - Standard Bash networking
 
 ## 🔧 Usage
@@ -26,7 +25,7 @@ A Bash-based network scanning tool that performs fast port scanning and service 
 ```bash
 chmod +x scanner.sh
 ./scanner.sh <target>
-
+```
 Project Purpose
 
 This project was built to practice:
