@@ -55,7 +55,7 @@ This tool can be used to quickly:
 
 Example output:
 
-![Smart Network Scanner Output](smart_network_scanner.png)
+![Smart Network Scanner Output](screenshots/smart_network_scanner.png)
 
 ---
 
