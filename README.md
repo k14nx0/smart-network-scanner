@@ -23,7 +23,9 @@ A Bash-based network scanning tool that performs fast port scanning and service 
 ## 🔧 Usage
 
 ```bash
+# Make the script executable
 chmod +x scanner.sh
+# Run the toolkit
 ./scanner.sh <target>
 ```
 
